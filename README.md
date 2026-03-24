@@ -1,9 +1,11 @@
-# Dashboard - Perfil de Clientes
+# Dashboard Perfil de Clientes
 
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-## 📌 Sobre o projeto
+---
+
+## Visão Geral
 
 Este projeto apresenta uma análise exploratória do **perfil de clientes** no segmento automotivo, com foco em comportamento, características demográficas e preferências de navegação.
 
@@ -17,9 +19,9 @@ A proposta foi desenvolver um dashboard em **Excel** para identificar padrões r
 
 ---
 
-## 🎯 Objetivo
+### O que foi avaliado?
 
-Transformar dados brutos em **informações estratégicas e visuais**, facilitando a compreensão do perfil dos clientes e apoiando decisões relacionadas a:
+Facilitar a compreensão do perfil dos clientes e apoiando decisões relacionadas a:
 
 * segmentação de campanhas;
 * definição de público-alvo;
@@ -28,31 +30,7 @@ Transformar dados brutos em **informações estratégicas e visuais**, facilitan
 
 ---
 
-## 🛠️ Ferramentas utilizadas
-
-* **Excel**
-* **Tabelas Dinâmicas**
-* **Gráficos Dinâmicos**
-* **Tratamento e organização de dados**
-* **Análise exploratória de dados (EDA)**
-
----
-
-## 📊 Indicadores e análises desenvolvidas
-
-O dashboard contempla as seguintes análises:
-
-1. Gênero dos clientes
-2. Status profissional dos clientes
-3. Faixa etária dos clientes
-4. Faixa salarial dos clientes
-5. Classificação dos veículos visitados
-6. Idade dos veículos visitados
-7. Marcas e modelos mais visitados
-
----
-
-## 💡 Principais insights obtidos
+### Indicadores e análises desenvolvidas
 
 Com base na análise, foi possível identificar:
 
@@ -64,13 +42,17 @@ Com base na análise, foi possível identificar:
 
 ---
 
-## 🚀 Resultado
+### Detalhes Técnicos
 
-Este projeto demonstra a aplicação de **Excel para análise de dados e construção de dashboards**, com foco em transformar dados em insights visuais e estratégicos para negócio.
+* **Excel**
+* **Tabelas Dinâmicas**
+* **Gráficos Dinâmicos**
+* **Tratamento e organização de dados**
+* **Análise exploratória de dados**
 
 ---
 
-## 🎓 Contexto do projeto
+### Nota de Autoria
 
-Este projeto foi desenvolvido como parte de um curso da **Udemy**, com foco em **SQL Avançado**, ministrado por **Midori Ferrari**, e foi adaptado para compor meu portfólio, reforçando a aplicação prática de análise de dados, organização de informações e construção de dashboards em **Excel**.
+Este projeto foi desenvolvido como parte de um curso da **Udemy**, com foco em **SQL Avançado**, ministrado por **Midori Toyota**, reforçando a aplicação prática de análise de dados, organização de informações e construção de dashboards em **Excel**.
 
