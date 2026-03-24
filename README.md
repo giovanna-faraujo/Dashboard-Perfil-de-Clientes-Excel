@@ -1,4 +1,7 @@
-# Dashboard - Perfil de Clientes 
+# Dashboard - Perfil de Clientes
+
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=database&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 ## 📌 Sobre o projeto
 
