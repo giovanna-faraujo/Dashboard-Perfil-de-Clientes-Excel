@@ -43,17 +43,11 @@ Transformar dados brutos em **informações estratégicas e visuais**, facilitan
 O dashboard contempla as seguintes análises:
 
 1. Gênero dos clientes
-
 2. Status profissional dos clientes
-
 3. Faixa etária dos clientes
-
 4. Faixa salarial dos clientes
-
 5. Classificação dos veículos visitados
-
 6. Idade dos veículos visitados
-
 7. Marcas e modelos mais visitados
 
 ---
@@ -80,7 +74,3 @@ Este projeto demonstra a aplicação de **Excel para análise de dados e constru
 
 Este projeto foi desenvolvido como parte de um curso da **Udemy**, com foco em **SQL Avançado**, ministrado por **Midori Ferrari**, e foi adaptado para compor meu portfólio, reforçando a aplicação prática de análise de dados, organização de informações e construção de dashboards em **Excel**.
 
----
-
-```
-```
